@@ -2,6 +2,11 @@
 
 ##
 
+<a href="https://github.com/DeveloperCaua">
+<img src="https://preview.redd.it/gco960asqty51.gif?format=mp4&v=enabled&s=f55c0865129b129f2064b67019ae7c7d328b7c4a">
+</a>
+
+
 <a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0001.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0001" /></a> Student of Information Systems at UFES (Universidade Federal do Espírito Santo);
 
 <a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0008.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0008" /></a> Knowledge in Python and C.
