@@ -1,4 +1,14 @@
-### Hello there!  <a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0027.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0027" /></a>
+
+![vecteezy_speech-bubbles-pixel-welcome_1195702 (1)](https://user-images.githubusercontent.com/126103614/221287112-3ccab756-b468-479c-804a-359d8ac9a58c.png)
+
+<h1 align="center"> 
+  <a href="https://www.instagram.com/caua_beling/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cauabeling@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cauabeliing@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cau%C3%A3-beling-52b2311ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </h1>
+
+
 
 ##
 
@@ -6,11 +16,13 @@
 <img src="https://preview.redd.it/gco960asqty51.gif?format=mp4&v=enabled&s=f55c0865129b129f2064b67019ae7c7d328b7c4a">
 </a>
 
+Sobre mim:
 
-<a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0001.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0001" /></a> Student of Information Systems at UFES (Universidade Federal do Espírito Santo);
+<a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0001.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0001" /></a> Estudante de Sistemas de Informação na Universidade Federal do Espírito Santo (UFES);
 
-<a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0008.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0008" /></a> Knowledge in Python and C.
+<a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0008.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0008" /></a> Conhecimento em Python e C;
 
+<a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0009.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0009" /></a> Sinta-se a vontade para ver um pouco dos meus trabalhos! Aqui estão alguns dos meus projetos desenvolvidos durante a faculdade, cursos e outros sem fins específicos.
 ##
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DeveloperCaua&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DeveloperCaua/github-readme-stats#gh-dark-mode-only)
@@ -22,12 +34,5 @@
 
 ##
 
-<div>
-  <a href="https://www.instagram.com/caua_beling/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cauabeling@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-  target="_blank"></a>
-  <a href = "mailto:cauabeliing@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cau%C3%A3-beling-52b2311ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
 
