@@ -24,9 +24,9 @@
 
 <div align="center">
   
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DeveloperCaua&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DeveloperCaua/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DeveloperCaua&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/DeveloperCaua/github-readme-stats#gh-light-mode-only) 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperCaua&layout=compact&langs_count=7&theme=dark"/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DeveloperCaua&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperCaua&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <h1 align="center"> 
