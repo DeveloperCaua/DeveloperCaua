@@ -13,7 +13,7 @@
 
 <a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0001.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0001" /></a> Estudante de Sistemas de Informação na Universidade Federal do Espírito Santo (UFES);
 
-<a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0008.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0008" /></a> Conhecimento em Python e C;
+<a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0008.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0008" /></a> Conhecimento em Python, C, HTML e CSS;
 
 <a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-pequenos-309.htm"><img src="https://www.imagensanimadas.com/data/media/309/emoticon-e-smiley-pequeno-imagem-animada-0009.gif" border="0" alt="emoticon-e-smiley-pequeno-imagem-animada-0009" /></a> Sinta-se a vontade para ver um pouco dos meus trabalhos! Aqui estão alguns dos meus projetos desenvolvidos durante a faculdade, cursos e outros sem fins específicos.
 
